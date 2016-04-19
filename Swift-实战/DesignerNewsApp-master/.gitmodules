@@ -1,0 +1,9 @@
+[submodule "Externals/Alamofire"]
+	path = Externals/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "Externals/Spring"]
+	path = Externals/Spring
+	url = https://github.com/MengTo/Spring.git
+[submodule "Externals/DTCoreText"]
+	path = Externals/DTCoreText
+	url = https://github.com/Cocoanetics/DTCoreText.git
